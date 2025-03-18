@@ -1,0 +1,6 @@
+com\healthtrack\HealthDataProcessor.class
+com\healthtrack\UserActivityAnalyzer.class
+com\healthtrack\MacronutrientProcessor.class
+com\healthtrack\App.class
+com\healthtrack\CalorieDataProcessor.class
+com\healthtrack\AdvancedCalorieProcessor.class
